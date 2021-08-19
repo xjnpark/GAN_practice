@@ -1,0 +1,14 @@
+conda create --name GAN_test_202108 python=3.7
+conda install -c anaconda tensorflow-gpu
+conda env update --file tools.yml
+pip install pillow
+
+https://blog.naver.com/13xjnpark=> 게시판 GAN_실습
+Late start but I don't feel late
+I can have new experiences on online communities
+Late start for new things,
+Pleasure of tasting new ones
+and Joy of learning!!!
+늦은 새로움에 대한 시작
+새로움을 맛보는 즐거움
+배우는 기쁨
